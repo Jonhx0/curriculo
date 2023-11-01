@@ -20,7 +20,8 @@ Estudo simples sobre o uso de HTML, CSS e documentação de projeto.
 ---
 
 <h3>🔛Tecnologias</h3>
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-64.png" height="25"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-64.png" height="25">
+<div style="display: inline-block; margin-right: 10px;"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-64.png" height="20">
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-64.png" height="20"></div>
 
 ---
 
@@ -46,4 +47,5 @@ Simple study on the usage of HTML, CSS, and project documentation.
 ---
 
 <h3>🔛Technologies</h3>
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-64.png" height="25"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-64.png" height="25">
+<div style="display: inline-block; margin-right: 10px;"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-64.png" height="20">
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-64.png" height="20"></div>
