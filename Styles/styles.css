@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Roboto&display=swap');
+
+:root {
+    --cor-primaria: #2B2D42;
+    --cor-secundaria: #D90429;
+    --cor-terciaria: #8D99AE;
+    --cor-hover: white;
+
+    --fonte-primaria: 'Courier Prime', monospace;
+    --fonte-secundaria: 'Roboto', sans-serif;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: var(--cor-primaria);
+    color: var(--cor-secundaria);
+}
+
+/* Tags que modificam o <header> */
+
+.cabecalho {
+    padding: 2% 0% 0% 15%;
+}
+
+.cabecalho_menu {
+    display: flex;
+    gap: 80px;
+}
+
+.cabecalho_menu_link {
+    color: var(--cor-terciaria);
+    font-family: var(--fonte-primaria);
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+/* Tags que modificam o <main> */
+
+.apresentacao {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    gap: 82px;
+    padding: 5% 15%;
+}
+
+.apresentacao_imagem {
+    width: 25%;
+}
+
+.apresentacao_conteudo {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 50%;
+}
+
+.apresentacao_conteudo_titulo {
+    font-size: 2.25rem;
+    font-family: var(--fonte-secundaria);
+    font-weight: normal;
+}
+
+.apresentacao_conteudo_paragrafo {
+    font-size: 1.25rem;
+    font-family: var(--fonte-primaria);
+}
+
+.apresentacao_links {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 32px;
+}
+
+.apresentacao_links_subtitulo {
+    font-family: var(--fonte-secundaria);
+    font-weight: 800;
+    font-size: 1.5rem;
+}
+
+.apresentacao_links_link {
+    border: 2px solid var(--cor-secundaria);
+    border-radius: 20px;
+    color: var(--cor-secundaria);
+    display: flex;
+    font-family: var(--fonte-primaria);
+    font-size: 1.5rem;
+    font-weight: 600;
+    gap: 16px;
+    justify-content: center;
+    padding: 22px 0px;
+    text-align: center;
+    text-decoration: none;
+    width: 50%;
+}
+
+.apresentacao_links_link:hover {
+    background-color: var(--cor-hover);
+}
+
+.titulo_destaque {
+    color: var(--cor-terciaria);
+}
+
+/* Tags que alteram o <footer> */
+
+.rodape {
+    background-color: var(--cor-terciaria);
+    bottom: 0;
+    left: 0;
+    color: var(--cor-secundaria);
+    font-family: var(--fonte-primaria);
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-align: center;
+    padding: 24px;
+    position: fixed;
+    width: 100%;
+}
+
+/* Tag específica do curriculo.html */
+.certificado {
+    color: gray;
+    text-decoration: none;
+}
+
+/* Media Query. Responsividade */
+
+@media (max-width: 1200px) {
+    .cabecalho {
+        padding: 8%;
+    }
+
+    .cabecalho_menu {
+        justify-content: center;
+    }
+
+    .apresentacao {
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .apresentacao_conteudo {
+        width: auto;
+    }
+}
