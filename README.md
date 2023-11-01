@@ -4,7 +4,7 @@
 * [Título](#currículo)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-projeto)
-* [Tecnologias Usadas](#tecnologias-usadas)
+* [Tecnologias](#tecnologias)
 
 ---
 
@@ -13,7 +13,8 @@ Estudo simples sobre o uso de HTML, CSS e documentação de projeto.
 
 ---
 
-<h3>💻Status do Projeto: ✅Concluído</h3>
+<h3>💻Status do Projeto</h3>
+✅Concluído
 
 ---
 
@@ -30,7 +31,7 @@ Estudo simples sobre o uso de HTML, CSS e documentação de projeto.
 * [Title](#resume)
 * [Project Description](#project-description)
 * [Project Status](#project-status)
-* [Technologies Used](#technologies-used)
+* [Technologies](#technologies)
 
 ---
 
@@ -39,7 +40,8 @@ Simple study on the usage of HTML, CSS, and project documentation.
 
 ---
 
-<h3>💻Project Status: ✅Completed</h3>
+<h3>💻Project Status</h3>
+✅Completed
 
 ---
 
