@@ -5,6 +5,7 @@
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-projeto)
 * [Tecnologias](#tecnologias)
+* [Link do Projeto](https://curriculo-mocha.vercel.app/)
 
 ---
 
@@ -19,9 +20,7 @@ Estudo simples sobre o uso de HTML, CSS e documentação de projeto.
 ---
 
 <h3>🔛Tecnologias</h3>
-
-- `HTML`
-- `CSS`
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-64.png" height="25"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-64.png" height="25">
 
 ---
 
@@ -32,6 +31,7 @@ Estudo simples sobre o uso de HTML, CSS e documentação de projeto.
 * [Project Description](#project-description)
 * [Project Status](#project-status)
 * [Technologies](#technologies)
+* [Project Link](https://curriculo-mocha.vercel.app/)
 
 ---
 
@@ -46,6 +46,4 @@ Simple study on the usage of HTML, CSS, and project documentation.
 ---
 
 <h3>🔛Technologies</h3>
-
-- `HTML`
-- `CSS`
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-64.png" height="25"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-64.png" height="25">
